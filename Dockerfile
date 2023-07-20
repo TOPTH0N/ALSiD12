@@ -1,6 +1,6 @@
 FROM RepthonArabic/Repthon:slim-buster
 
-RUN git clone https://github.com/RepthonArabic/Repthon.git /root/zthon
+RUN git clone https://github.com/TOPTH0N/ALSiD.git /root/zthon
 
 WORKDIR /root/zthon
 
