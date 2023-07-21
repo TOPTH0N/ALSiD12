@@ -1,4 +1,4 @@
-FROM RepthonArabic/Repthon:slim-buster
+FROM TOPTH0N/ALSiD:slim-buster
 
 RUN git clone https://github.com/TOPTH0N/ALSiD.git /root/zthon
 
