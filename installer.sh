@@ -3,7 +3,7 @@
 REPO="https://github.com/TOPTH0N/ALSiD12.git"
 CURRENT_DIR="$(pwd)"
 ENV_FILE_PATH=".env"
-DIR="/root/RepthonArabic"
+DIR="/root/TOPTH0N"
 
 while [ $# -gt 0 ]; do
     case "$1" in
